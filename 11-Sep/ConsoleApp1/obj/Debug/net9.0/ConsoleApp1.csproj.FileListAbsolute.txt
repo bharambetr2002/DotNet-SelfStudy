@@ -12,3 +12,4 @@
 /Users/musafir/Developer/DotNet/11-Sep/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
 /Users/musafir/Developer/DotNet/11-Sep/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
 /Users/musafir/Developer/DotNet/11-Sep/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/Users/musafir/Developer/DotNet/11-Sep/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json

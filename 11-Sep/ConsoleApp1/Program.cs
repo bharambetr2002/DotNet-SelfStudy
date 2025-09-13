@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello, World!");
 
-            var helper = new Helper();
+            Helper helper = new Helper();
 
             // Calling different overloads of Display
             helper.Display();
