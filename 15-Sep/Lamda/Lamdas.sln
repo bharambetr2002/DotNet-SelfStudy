@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lamdas", "Lamdas\Lamdas.csproj", "{AAB839BE-0F2C-4E86-807F-54B7888198CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|x64.Build.0 = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|x64.Build.0 = Release|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{AAB839BE-0F2C-4E86-807F-54B7888198CE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
